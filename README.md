@@ -1,5 +1,5 @@
 O objetivo é criar um programa que permita cadastrar colaboradores e calcular o salário final de acordo com o tipo de vínculo. O sistema deverá ser interativo, utilizando entrada e saída de dados, estruturas de decisão, laços de repetição, estruturas de seleção e armazenamento de informações em listas (ArrayList).
-Conceitos estudados nesta UC que deverão ser aplicados são:
+Conceitos aplicados são:
 Tipos de dados primitivos e compostos.
 Declaração e utilização de constantes e variáveis.
 Estrutura de entrada e saída de dados (Scanner e System.out).
